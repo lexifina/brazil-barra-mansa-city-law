@@ -1,0 +1,3 @@
+# Lei Orgânica do Município de Barra Mansa, RJ.
+PREÂMBULO
+Nós, Vereadores à Câmara Municipal de Barra Mansa, Estado do Rio de Janeiro, reunidos em Sessão Solene no Palácio Barão de Guapy, Sede do Poder Legislativo Municipal, alicerçados no que preceitua o art.23 da Constituição Federal e imbuídos da determinação de dotar nosso Município de um ordenamento jurídico-administrativo que possa assegurar à nossa Comunidade um crescimento justo e metódico, onde as oportunidades sejam equitativamente distribuídas a todos os munícipes, atendidos em abrangência os anseios de nossa População, promulgamos, sob a proteção de Deus, a presente LEI ORGÂNICA.
