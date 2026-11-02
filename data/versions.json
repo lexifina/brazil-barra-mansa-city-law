@@ -200,6 +200,342 @@
      "sha256": "c002eabe801c8d90bede9bf83044a492e0e1596d0ee9971606c57c3b78c4e510"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-06165",
+   "short": "Lei 6165/2026",
+   "title": "Lei nº 6.165, de 16 de julho de 2026",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5532",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 5,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2026/5532/lei_no_6.165_de_16_de_julho_de_2026.pdf",
+     "sha256": "ba9b06feb682271fcf86ada0924ee468eed35e849af7dbd9bcbe255def88e78c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06162",
+   "short": "Lei 6162/2026",
+   "title": "Lei nº 6.162, de 26 de junho de 2026",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5531",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 4,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2026/5531/lei_no_6.162_de_26_de_junho_de_2026.pdf",
+     "sha256": "92273b79dfd97dad565984830d267e750ead74ed275e734d290d4c0fbacffbaf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-06160",
+   "short": "Lei 6160/2026",
+   "title": "Lei nº 6.160, de 17 de junho de 2026",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5530",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 7,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2026/5530/lei_no_6.160_de_17_de_junho_de_2026.pdf",
+     "sha256": "1b8d77eb7df1ec75fd84c8ab3a19b28a62c40a6c96ade9e82898d005483c15b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06066",
+   "short": "Lei 6066/2024",
+   "title": "Lei nº 6.066, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5249",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 3,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5249/lei_no_____6.066_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "0330ce8ca883d8711c0253fc14e7d604460ee334740413c5350f84b85a2a443b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06065",
+   "short": "Lei 6065/2024",
+   "title": "Lei nº 6.065, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5250",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 13,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5250/lei_no_____6.065_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "122e19820a24f6807045234d005d94a21e15dc39a2afa35dcda80d489584b452"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06064",
+   "short": "Lei 6064/2024",
+   "title": "Lei nº 6.064, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5251",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 5,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5251/lei_no_____6.064_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "49f56b1d42778a7a51e1a1cb73238301c712f94b38e5705c1679141409a699b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06063",
+   "short": "Lei 6063/2024",
+   "title": "Lei nº 6.063, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5252",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 5,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5252/lei_no_____6.063_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "39a382c69e27c203f60285bfb4fe2e9b70a59050d2d522507524120a27757cac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06060",
+   "short": "Lei 6060/2024",
+   "title": "Lei nº 6.060, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5255",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 6,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5255/lei_no_____6.060_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "2c089e1e59a14c3f973aa4f2d13111d1fee4a2b6c9b73428e3b669c1e6d0b192"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06057",
+   "short": "Lei 6057/2024",
+   "title": "Lei nº 6.057, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5258",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 7,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5258/lei_no_____6.057_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "088f83cb02f00e0dd6bdb093c1a0c858fe144bd0ac0eb56309a6487b323ad6fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06056",
+   "short": "Lei 6056/2024",
+   "title": "Lei nº 6.056, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5259",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 7,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5259/lei_no_____6.056_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "18d9ca427580788b2263d3e745fcfc3e38f673aefece9e4f8ce8536a9c9f1780"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06055",
+   "short": "Lei 6055/2024",
+   "title": "Lei nº 6.055, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5260",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 4,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5260/lei_no_____6.055_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "d72e4e68a88f23c50e939d4dee181fecf405e90e54b830dafa611c7e5bdddb47"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06054",
+   "short": "Lei 6054/2024",
+   "title": "Lei nº 6.054, de 27 de dezembro de 2024",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/5261",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 8,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2024/5261/lei_no_____6.054_de__27_de_dezembro_de__2024.pdf",
+     "sha256": "1fcc11af2d8761dc83596bb2a1777bdd59b6a537032d9e77b3af2470f999f1ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05050",
+   "short": "Lei 5050/2023",
+   "title": "Lei nº 5.050, de 10 de março de 2023",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/4582",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 59,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2023/4582/lei_5050_de_10_de_marco_de_2023--assinado_10032023030926.pdf",
+     "sha256": "997679fae16a3d95e70430752308f31fd3043d736040b998b8f767e16eec7b9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04925",
+   "short": "Lei 4925/2021",
+   "title": "Lei nº 4.925, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/79",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 4,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/79/lei_no__4.925____de__15___de___junho___de__2021..pdf",
+     "sha256": "ebad700747d3edc55fab893d07dc6e791b990724c1ab5d65c1a4eb1ce6aa7dfc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04924",
+   "short": "Lei 4924/2021",
+   "title": "Lei nº 4.924, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/78",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 4,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/78/lei_no__4.924____de__15___de___junho___de__2021..pdf",
+     "sha256": "e8cea27520dd891190c049367aef97fa2402a30344a9b65420f6459206351a15"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04923",
+   "short": "Lei 4923/2021",
+   "title": "Lei nº 4.923, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/77",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 3,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/77/lei_no__4.923____de__15___de___junho___de__2021..pdf",
+     "sha256": "150a2e6907bd7dcb4f980d9cf13f59c45a844dd8d5f9617fb93c0949d4783260"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04922",
+   "short": "Lei 4922/2021",
+   "title": "Lei nº 4.922, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/76",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 5,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/76/lei_no__4.922____de__15___de___junho___de__2021..pdf",
+     "sha256": "a682ec5da556ddf0bcc12e16405bcdc46c251df52003cae5ecf60f570644e197"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04921",
+   "short": "Lei 4921/2021",
+   "title": "Lei nº 4.921, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/75",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 7,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/75/lei_no__4.921____de__15___de___junho___de__2021..pdf",
+     "sha256": "b87d14e056ecb9e97848d00ac1ef72ee20e950a122507b5a3a80fa43059214c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04919",
+   "short": "Lei 4919/2021",
+   "title": "Lei nº 4.919, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/73",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 5,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/73/lei_no__4.919____de__15___de___junho___de__2021.pdf",
+     "sha256": "183de93ada791b11129a50d617e741ab8fd994bfeab63bf1c42a755c5b50a2d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04918",
+   "short": "Lei 4918/2021",
+   "title": "Lei nº 4.918, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/72",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 3,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/72/lei_no__4.918____de__15___de___junho___de__2021..pdf",
+     "sha256": "1b82dd45915140b02efe76681d71c3f80bdb3c046c7a27990e2d896caa3f2efe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04917",
+   "short": "Lei 4917/2021",
+   "title": "Lei nº 4.917, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/71",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 5,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/71/lei_no__4.917____de__15___de___junho___de__2021..pdf",
+     "sha256": "d171277e144a624bbc7cdc441a199ff49e1bfb11f1dc738297ca42082340b50e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04916",
+   "short": "Lei 4916/2021",
+   "title": "Lei nº 4.916, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/70",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 3,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/70/lei_no__4.916____de__15___de___junho___de__2021..pdf",
+     "sha256": "bf7854eef18cf0d0031dbfa772125fce1aa0905e9be2e9e8f701ac9d04f0c05f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04914",
+   "short": "Lei 4914/2021",
+   "title": "Lei nº 4.914, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/68",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 6,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/68/lei_no__4.914____de__15___de___junho___de__2021.pdf",
+     "sha256": "83242238927eb93b7cfacac4123b6b7f239175c17d50ad39e580bcc6a1e4b2ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04913",
+   "short": "Lei 4913/2021",
+   "title": "Lei nº 4.913, de 15 de junho de 2021",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/67",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 3,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2021/67/lei_no__4.913____de__15___de___junho___de__2021..pdf",
+     "sha256": "e7c70ad3465d4d190b3077d09041ee8c998f6f20723d994567d14f011befc7cc"
+    }
+   ]
   }
  ]
 }
