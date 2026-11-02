@@ -1,0 +1,9 @@
+{
+  "path": "br-rj-barra-mansa",
+  "code": "BR-RJ-BARRA-MANSA",
+  "name": "Barra Mansa (city)",
+  "level": "municipality",
+  "parent": "br-rj",
+  "repo": "https://github.com/lexifina/brazil-barra-mansa-city-law",
+  "build": "built: the law of Barra Mansa from the Câmara Municipal's SAPL"
+}

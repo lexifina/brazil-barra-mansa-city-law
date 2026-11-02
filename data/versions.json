@@ -1,0 +1,205 @@
+{
+ "country": "BR-RJ-BARRA-MANSA",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Barra-Mansa",
+   "title": "Lei Orgânica do Município de Barra Mansa",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/45",
+   "versions": [
+    {
+     "from": "1990-04-05",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/0,1990-04-05,1990-12-26:X5CuupWb1IbMnbG2JoIXvJzIXZc/",
+     "sha256": "06a59d0447269d9195accc16098c83f073844a00b7a1c987f95009f3c6f5110b"
+    },
+    {
+     "from": "1990-12-27",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/34,1990-12-27,1992-05-17:oHbmq4IAceTDMBTbVWqbqmazoes/",
+     "sha256": "1c34814357434e238416c00c0dace26ece1fdacf3221b12dfb1ab13a06cf4ff1"
+    },
+    {
+     "from": "1992-05-18",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/35,1992-05-18,1992-12-22:Q8jRHCU00UCCnTL4aLaEDUfQxnU/",
+     "sha256": "ca9eb795e68d1a39a885e806e039daf6a15912ff60098bfa0700a2cae11f4337"
+    },
+    {
+     "from": "1992-12-23",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/36,1992-12-23,1995-11-12:olkebJE8RtPoJ-7NyAjikZdeCu8/",
+     "sha256": "a9209cec6a84fbeb40f3f5b25cec8eec993ba7fbb8aa797d1e12baf3f090c6ea"
+    },
+    {
+     "from": "1995-11-13",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/37,1995-11-13,1996-11-26:G65QFUlwfH_wpU3FAzoRiIlWecQ/",
+     "sha256": "19bebf97486eaf49ac99d299a3c16e13fa97a2523a1d76bf8bd20378d1ef247a"
+    },
+    {
+     "from": "1996-11-27",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/38,1996-11-27,1997-04-29:-k2LfEQqxum_ykSB4l1DxGZCNGA/",
+     "sha256": "c18e794bb96b6880be00e65a9c40c1d0aef79f26de3edd3bc185555aaab4fdee"
+    },
+    {
+     "from": "1997-04-30",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/39,1997-04-30,1998-03-17:uL8nGYdgJOrsI2gr0i6YbU_axcE/",
+     "sha256": "8ba9aeb689947bb2eae6a2f25a470ec410fce440e65967883c9e9da5a12a76fb"
+    },
+    {
+     "from": "1998-03-18",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/40,1998-03-18,1998-03-19:-AvfO-Bi8Kr4C4n7c6DpjQvx-34/",
+     "sha256": "8baca5f2f388d4f07c7fd890425858650a82e6611965f3fa47dda1fcc631e432"
+    },
+    {
+     "from": "1998-03-20",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/41,1998-03-20,2001-03-06:M51N3HAecfSjONTA2OTWspI9pic/",
+     "sha256": "1a512645f91d526e9bbb780ff571017cae537917a1a08c17c72947798e7b5584"
+    },
+    {
+     "from": "2001-03-07",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/42,2001-03-07,2001-05-24:DRSi7h19z3XSULAkTOYgoWrjmsU/",
+     "sha256": "cd0cf4eabb2a66286ee64e4b523123eebe8f9e447c3968affee65a9bf50b2482"
+    },
+    {
+     "from": "2001-05-25",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/43,2001-05-25,2004-12-09:f_rwrCF40bYKvr8_HZngErXvgJw/",
+     "sha256": "9d3b5855e3b7fe331a82f8ea0708f50391daaf5c442c3e279d8551dbebec3720"
+    },
+    {
+     "from": "2004-12-10",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/44,2004-12-10,2008-06-08:ujlYfdgoHGfYHZrPsgUyu_OT2Bg/",
+     "sha256": "5fa6dd603b92282bbee9934145597cd7f88504723e75b87d5c6974c8c84aad42"
+    },
+    {
+     "from": "2008-06-09",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/45,2008-06-09,2008-12-29:PPlGQe1FeOMCZ7p4WME_Hlz8T54/",
+     "sha256": "7da68fe856a399f8154f42cdb426512dd4d7d0800aa90e38949c8083fcb25c94"
+    },
+    {
+     "from": "2008-12-30",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/46,2008-12-30,2011-05-03:K-RVPnabE4KLvQSp_Mh6teb3d34/",
+     "sha256": "1cb390fb3fdb0505451fdeea4bc9b0d1f440403eddb54c1e1c8bd0f1761984d4"
+    },
+    {
+     "from": "2011-05-04",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/47,2011-05-04,2011-09-27:SB1c8ey19PAz51quV93_gf8UleQ/",
+     "sha256": "6f573fe1e63f9e95ea2d1c3443ce7e7a1ccf4e5cbe68d75de07d46891cfe060a"
+    },
+    {
+     "from": "2011-09-28",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/48,2011-09-28,2012-12-06:XoLHjlZ2XaaC75cakJYsNyylZ78/",
+     "sha256": "752dcde150f38bcb5033cd649f20794af21c3e692caa4cc2353825af19606b49"
+    },
+    {
+     "from": "2012-12-07",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/49,2012-12-07,2013-09-26:DIqTUZSEu9nPczbXY2LgPD7KQlo/",
+     "sha256": "eeee62335c302343ee6f863afcc6834b0b62c664d2476cb65e735b07db070891"
+    },
+    {
+     "from": "2013-09-27",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/50,2013-09-27,2014-12-21:Z-G_rGQ3ucpZW-cEF4HxfMadcl4/",
+     "sha256": "5a87d567f13d20d59f790173a905437d27ad827cca5e6464ed5b4c84eb7972f0"
+    },
+    {
+     "from": "2014-12-22",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/51,2014-12-22,2015-09-08:ffZA2sN5GKARbkAYuWRVKkxY8OQ/",
+     "sha256": "adc72c5f673956108d7958e84192a63b56e446a94ecde6c8cf330ed41bff74e5"
+    },
+    {
+     "from": "2015-09-09",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/52,2015-09-09,2015-11-25:SrjU3Gg6tkTQRNSLHfBg-1EE2O4/",
+     "sha256": "1d705687d44fb0db2bf8e55524cbe4d13fe5060134cb87e38f9211fa6344a761"
+    },
+    {
+     "from": "2015-11-26",
+     "units": 248,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/33,2015-11-26,2017-12-14:rBEIbQHRe4PGrK6lHrYcomBpaZ8/",
+     "sha256": "414219bab387104261996fd6716116f410e95023cfef4532fac950f9e8c0665c"
+    },
+    {
+     "from": "2017-12-15",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/56,2017-12-15,2018-04-18:GUKK2nPSznoiHM2oruCkMDAAOZc/",
+     "sha256": "fd54822284bc6cb1cee2edee448f8e29e8314262d633e4788fdbb805f9205a56"
+    },
+    {
+     "from": "2018-04-19",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/53,2018-04-19,2018-05-27:sC24dcYoXxzvAOK9DmtRIjn20RU/",
+     "sha256": "53c66cb641729cb20c35f03deb603420a9c2ad4112e981e97e7ab175fecb42f6"
+    },
+    {
+     "from": "2018-05-28",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/54,2018-05-28,2018-07-10:Kkif3CXS1VeIkErRrs6AyqKV8YI/",
+     "sha256": "15efc9064298588d117d30c21221354bd8e078b565ee70b06bd432ab2c86ff56"
+    },
+    {
+     "from": "2018-07-11",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/55,2018-07-11,2022-11-30:UOxssgwWl4eB0DISsa8nvsUPLaY/",
+     "sha256": "c757ef1a93bae0ff536c7d4dad6205988df634c9c0e5f265172a05cd46710426"
+    },
+    {
+     "from": "2022-12-01",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/1311,2022-12-01,2022-12-13:Z-Sf-gI2bFopqv2ytpa9czn3O5s/",
+     "sha256": "bbc07ead8438d5afde4f515af3141f69898f6741d9818be45eafdf8c042448bb"
+    },
+    {
+     "from": "2022-12-14",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/1312,2022-12-14,2023-06-26:dap9Yj20zbNrCE592zp7bc5ElKI/",
+     "sha256": "27ff305b39ab2bee78f0f833e5b4c7bf17432b79d460a21f9fd97d28ff3c5b4d"
+    },
+    {
+     "from": "2023-06-27",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/1361,2023-06-27,2025-05-15:B-Qh5dMCNYznqNC9e9tQFjSNjF4/",
+     "sha256": "001788f74730582050a2a109beb9a724c5f3012b7e64f28c40fe543c72003751"
+    },
+    {
+     "from": "2025-05-16",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/1362,2025-05-16,2025-12-15:3Rh_HIK5d2uqmhMTT5CUFPwZm2A/",
+     "sha256": "7375f98f76bacb59f09f1e7c6c96c0fbb657a0ea0608e11d43626fa0facd6129"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/2381,2025-12-16,2026-03-04:5elUBYZRVb8vnqFxjiTFRGRUV_o/",
+     "sha256": "3138b5413cdc411e8e708e145e178682d70075d7ca567220a9f0fcb624dc9b1c"
+    },
+    {
+     "from": "2026-03-05",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/ta/25/text/vigencia/2676,2026-03-05,2026-09-02:x5GNwhQOCmMQwDW5bBi3IuULKAk/",
+     "sha256": "bde1a800850abea24aeb2a8f54b47e9f4d18d52019b11409e287c4752ff6ec79"
+    },
+    {
+     "from": "2026-09-03",
+     "units": 251,
+     "source_url": "https://sapl.barramansa.rj.leg.br/norma/45",
+     "sha256": "c002eabe801c8d90bede9bf83044a492e0e1596d0ee9971606c57c3b78c4e510"
+    }
+   ]
+  }
+ ]
+}
