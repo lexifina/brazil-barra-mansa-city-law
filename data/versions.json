@@ -536,6 +536,62 @@
      "sha256": "e7c70ad3465d4d190b3077d09041ee8c998f6f20723d994567d14f011befc7cc"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-04868",
+   "short": "Lei 4868/2020",
+   "title": "Lei nº 4.868, de 8 de dezembro de 2020",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/3492",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 8,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2020/3492/lei-4868-20.pdf",
+     "sha256": "1a30bf8cb7e4999ebb073226cdb1e9378ff49eb66ca265839065471aac9d59d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04861",
+   "short": "Lei 4861/2020",
+   "title": "Lei nº 4.861, de 3 de setembro de 2020",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/4207",
+   "versions": [
+    {
+     "from": "2020-09-03",
+     "units": 16,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2020/4207/lei-4861-20.pdf",
+     "sha256": "49e97f5d464105d0ca04a37f77018b3fbc40341656b3b5b33e4939c6342d2030"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04860",
+   "short": "Lei 4860/2020",
+   "title": "Lei nº 4.860, de 1 de setembro de 2020",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/4206",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 8,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2020/4206/lei-4860-20.pdf",
+     "sha256": "576c33d2109c32097afa627cb22749538d4563bf8c5a21da4e3f4e5379e1304f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04859",
+   "short": "Lei 4859/2020",
+   "title": "Lei nº 4.859, de 1 de setembro de 2020",
+   "url": "https://sapl.barramansa.rj.leg.br/norma/4204",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://sapl.barramansa.rj.leg.br/media/sapl/public/normajuridica/2020/4204/lei-4859-20.pdf",
+     "sha256": "14e481de88b55324df53dbd6de33b6f892f47d8ae1bfbfbf85eb6e0de1d4fd31"
+    }
+   ]
   }
  ]
 }
